@@ -72,5 +72,5 @@ calculadora-python/
 ## ✍️ Autor
 
 Desenvolvido por **Gabriel Lobato**  
-🔗 [LinkedIn](https://www.linkedin.com/in/seu-perfil/)  
-📧 gabriel.lobato@email.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/gabriel-lobato-314096371)  
+📧 gabriellobato315@gmail.com
